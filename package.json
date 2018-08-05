@@ -1,0 +1,23 @@
+{
+  "name": "landingpage",
+  "version": "1.0.0",
+  "description": "Landing Page for our product",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoftwareBrand/LandingPage.git"
+  },
+  "author": "Tarek&Ghali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoftwareBrand/LandingPage/issues"
+  },
+  "homepage": "https://github.com/SoftwareBrand/LandingPage#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "jquery": "^3.3.1"
+  }
+}
